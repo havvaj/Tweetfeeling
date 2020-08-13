@@ -1,0 +1,1 @@
+web : gunicorn Twitter-SentimentAnalysis_flaskapp:app
